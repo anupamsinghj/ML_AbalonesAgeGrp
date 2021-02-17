@@ -13,7 +13,7 @@ classes from 29 to 5.
 We convert Regression problem into a classification problem by dividing the classes into 5 groups like :
 ________________________
 Rings Range  |  Class
-_____________|___________
+________________________
 1-6          |  1
 7-12         |  2
 13-18        |  3
